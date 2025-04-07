@@ -25,6 +25,6 @@ window.onload = function() {
   }
   console.log("Here's a list of domain names:");
   for (let i = 0; i < domainNames.length; i++) {
-    console.log(domainNames[i]);
+    console.log(domainNames[i] + '.com');
   }
 };
